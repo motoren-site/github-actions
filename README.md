@@ -1,4 +1,4 @@
-# Intro i Github Actions
+# Intro til Github Actions
 
 I dette eksempelet pakkes en Go applikasjon inn i Docker Container
 
